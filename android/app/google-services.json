@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251620269362",
+    "project_id": "personal-expense-tracker-735ad",
+    "storage_bucket": "personal-expense-tracker-735ad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251620269362:android:c9beda84e0bcf1928b8b2b",
+        "android_client_info": {
+          "package_name": "com.example.newapp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvR0t909GwyKMORpRaIWGDpnal4puc52c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
